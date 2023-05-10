@@ -1,12 +1,12 @@
 img{
     width: 200px;
-    margin: 4px 5px;
+    margin: 4px 4px;
     height: 250px;
     border: 5px solid rgb(20, 20, 20);
 }
 .dogs{
     display: flex;
-  /*  justify-content: space-around;*/
+    justify-content: left;
     flex-wrap: wrap;
     flex-direction: row;
 }
